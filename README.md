@@ -19,6 +19,3 @@ python3 main.py
 
 # suggest python 3
 ```
-
-**Note:**
-This version of Frontend may not include new features.
